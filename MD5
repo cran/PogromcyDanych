@@ -1,6 +1,6 @@
-0a48e55da659f399b2c98ec2312e7a1c *DESCRIPTION
-3c375d823809412494c97c0332dc6b6f *NAMESPACE
-93c94a2acf5f7fbc9e1ef7a1f9b99e5b *R/setNames.R
+ceb7ed3de0dcff2b139be42b3065d16e *DESCRIPTION
+f509ac372785e0772cb2f883ad2b6a65 *NAMESPACE
+e238bb4de9f01e28e78b1e2b9b48ce32 *R/setNames.R
 f9dc1a16a8cacbc0a9bc93a370de15c2 *data/TCGA_BRCA.rda
 22d7f2e24f5b913f245a0a213aab3830 *data/WIG.rda
 507fd9fc1a1385b3ca7a230f0100f9f6 *data/auta2012.rda
@@ -14,7 +14,7 @@ deae7ed194a7f6de5b925eabe584568f *data/pearson.rda
 b7094724d1ccd5f0f1573c96dcd2b18b *data/serialeIMDB.rda
 85ae73b3b799917e603d0b730a97b8fa *data/skiJumps2013.rda
 14389f10c13cbabc9d35019f9d0b4101 *data/skiJumps2013labels.rda
-96bb5013315c0d450667bf8b19709802 *man/PogromcyDanych-package.Rd
+d2b57a927fef9f63695b90d61f60d36a *man/PogromcyDanych-package.Rd
 056e9c210df0aff24dac5613feba5422 *man/TCGA_BRCA.Rd
 6ae27345a532366b28bf57f9dd7228ba *man/WIG.Rd
 b04a26055dccf439d695e133e86ac22c *man/auta2012.Rd
